@@ -7,3 +7,6 @@ number = int(input("Please enter a number for the number of times to display the
 
 for tescoischeaper in range(number):
     print(message)
+
+#name then gets assigned to hold those values
+    
